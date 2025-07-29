@@ -14,6 +14,8 @@ A stylized OTP (One Time Password) input component for React with **auto-focus**
 
 ---
 
+
+
 ## Installation
 
 ```bash
@@ -81,6 +83,19 @@ Example (CSS)
 }
 ```
 
+
+## HomePage
+
+Project Home: [https://github.com/makozi/react-input-otp](https://github.com/makozi/react-input-otp)
+
+
+## Repository
+
+Repository: [https://github.com/makozi/react-input-otp](https://github.com/makozi/react-input-otp)
+
+
 ## License
 
 MIT © Makozi Marizu-Ibewiro
+
+ 
