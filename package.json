@@ -33,10 +33,5 @@
     "authentication",
     "verification",
     "react-component"
-  ],
-  "homepage": "https://github.com/makozi/react-input-otp",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/makozi/react-input-otp.git"
-  }
+  ]
 }
